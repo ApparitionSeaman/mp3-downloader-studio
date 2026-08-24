@@ -22,4 +22,4 @@ Docs & guides: https://mp3-downloader-studio.softonx.xyz
 
 ## Tips
 > [!TIP]
-> Pin it to your taskbar for quick access.     
+> Pin it to your taskbar for quick access.      
